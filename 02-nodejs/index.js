@@ -1,4 +1,6 @@
 /*
+  Exemplo básico de sincronia de funções em JavaScript utilizando timeout
+
   0 Obter um usuário
   1 Obter o número de telefone de um usuário a partir de seu id
   2 Obter o endereço do usuário pelo id
