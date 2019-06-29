@@ -1,7 +1,7 @@
 const EventEmitter = require('events')
 
 class MeuEmissor extends EventEmitter {
-
+  // implementando todos os métodos de 'events'
 }
 
 const meuEmissor = new MeuEmissor()
