@@ -7,6 +7,7 @@ async function obterPessoas(nome) {
   return response.data
 }
 
+// testando api
 // obterPessoas('r2')
 //   .then(function (resultado) {
 //     console.log('resultado', resultado)
